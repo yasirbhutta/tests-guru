@@ -2,7 +2,15 @@
 
 ## Introduction to HTML
 
+1.  What is HTML? 
+
+1. Specify the code you would enter to mark the text “Welcome” as an h1 heading.
+
 1. How do you insert a comment in html?
+
+1. What is the difference between linking to an image, a website, and an email address? 
+
+1. What is the syntax difference between a bulleted list and numbered list? 
 
 1. Error Detection. Find 3 errors in the code sample.(03) 
 

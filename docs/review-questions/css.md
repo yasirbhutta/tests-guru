@@ -16,6 +16,7 @@
 
 1. What are selectors in CSS? 
 
+1. Write a program to execute a JavaScript function using HTML onclick Event Attribute
 1. How can you apply CSS style using ID value? 
 
 1. Provide a style rule to display h1, h2 and h3 headings with a yellow color.
