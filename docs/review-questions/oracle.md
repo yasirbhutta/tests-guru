@@ -58,5 +58,5 @@
 
 1. Write PL/SQL code to explain **instead of trigger** with an example?
 
-1. Write code to create two triggers, **HR_LOGON_TRIGGER** and HR_LOGOFF_TRIGGER. After someone logs on as user HR, HR_LOGON_TRIGGER adds a row to the table HR_USERS_LOG. Before someone logs off as user HR, HR_LOGOFF_TRIGGER adds a row to the table HR_USERS_LOG.
+1. Write code to create two triggers, **HR_LOGON_TRIGGER** and **HR_LOGOFF_TRIGGER**. After someone logs on as user HR, HR_LOGON_TRIGGER adds a row to the table HR_USERS_LOG. Before someone logs off as user HR, HR_LOGOFF_TRIGGER adds a row to the table HR_USERS_LOG.
 
